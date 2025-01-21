@@ -9,7 +9,7 @@ export default function About() {
         <div className="md:w-1/3">
           <Image
             src="/photo.jpeg?height=300&width=300"
-            alt="John Doe"
+            alt="Kinjal Surve"
             width={300}
             height={300}
             className="rounded-lg"
